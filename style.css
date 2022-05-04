@@ -1,0 +1,17 @@
+input {
+    margin: 10px;
+    font-family: Josefin-Sans;
+}
+
+button {
+    border-radius: 50px;
+    font-size: 1rem;
+    color: aqua;
+    background-color: black;
+    border-style: none;
+    padding: 10px 10px 10px 10px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+p {
+    font-family: 'Josefin Sans', sans-serif;
+}
